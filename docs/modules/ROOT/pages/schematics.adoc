@@ -7,6 +7,7 @@
 * Water Turbine Mk1
 * Solar Panel Mk1
 * Scanner upgrade Water turbine node
+* Modular power generation
 
 == Tier 5
 * Wind Turbine Mk2
